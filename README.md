@@ -1,7 +1,7 @@
-# New Project
+# Hedgehog Maze
 
-Welcome to the New Project! This repository contains a modern web application built with Next.js and Tailwind CSS.
+Hedgehog Maze built with Next.js and Tailwind CSS.
 
 ## GitHub Pages
 
-You can view the project live on GitHub Pages: [GitHub Pages Link](https://your-username.github.io/your-repo-name/)
+View the project live on GitHub Pages: [GitHub Pages Link](https://your-username.github.io/your-repo-name/)
